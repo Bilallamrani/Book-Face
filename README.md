@@ -31,9 +31,11 @@ PHYSYS is a social media app designed for nature enthusiasts who want to share t
 
 
 #### Demo (does not work on edge):
-<a href="https://liolle.github.io/BookFace/"> 
+<!-- <a href="https://liolle.github.io/BookFace/"> 
 <img src="./homePage.png" style="border-radius:4px"/>
-</a>
+</a> -->
+
+![Home](https://github.com/Bilallamrani/Book-Face/blob/main/HomePage.jpg?raw=true)
 
 ![Profile](https://github.com/Bilallamrani/Book-Face/assets/119407722/36d747f4-377d-4037-9f3c-e6fb6cd39e66)
 
